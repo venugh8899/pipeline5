@@ -138,7 +138,7 @@ pipeline {
     // ========================================================
     environment {
 
-        REPO = 'github.com/Rajesh33-11/flipkart.git'
+        REPO = 'https://github.com/venugh8899/flipkart.git'
 
         BRANCH = 'main'
     }
